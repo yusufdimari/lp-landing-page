@@ -22,7 +22,7 @@ const Programs = () => {
           ))}
         </h1>
         <Divider />
-        <div className="mt-10">
+        <div className="mt-10 p-5">
           <dl className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
             {program.courses.map((feature) => (
               <div key={feature.title} className="relative">

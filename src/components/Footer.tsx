@@ -27,8 +27,8 @@ const Footer = () => {
       </h1>
       <Divider />
       <div className="flex flex-col items-center justify-center">
-        <div className="flex w-full">
-          <div className="flex flex-col w-1/2 justify-start p-10 gap-5">
+        <div className="flex flex-col md:flex-row w-full">
+          <div className="flex flex-col md:w-1/2 justify-start p-10 gap-5">
           {contact.options.map(c=>
             <div key={c.title}>
               <h1 className="text-primary font-semibold text-2xl" >{c.title}</h1>
@@ -36,7 +36,7 @@ const Footer = () => {
             </div>
             )}
           </div>
-          <div className="w-1/2 justify-center">
+          <div className="hidden md:block w-1/2 justify-center">
             <iframe
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3940.2486837758934!2d7.501004399999999!3d9.041065300000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x104e0b937d2a5387%3A0x90dfb15c080ed1!2s1%20Dunukofia%20St%2C%20Garki%2C%20Abuja%20900103%2C%20Federal%20Capital%20Territory%2C%20Nigeria!5e0!3m2!1sen!2suk!4v1741569656900!5m2!1sen!2suk"
               width="600"

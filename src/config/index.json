@@ -30,12 +30,8 @@
     "title": "Leadership Perspective",
     "subtitle": "Limited.",
     "description": "At Leadership Perspective Limited (LPL), we equip professionals and organizations with world-class leadership training and strategic consulting. From executive development to oil & gas expertise, our tailored programs help you lead with confidence, drive business success, and stay ahead in a competitive world.",
-    "img": "/assets/images/happyTeam.jpeg",
+    "img": "/assets/images/meeting1.jpg",
     "primaryAction": {
-      "text": "Get started",
-      "href": "#"
-    },
-    "secondaryAction": {
       "text": "Email us",
       "href": "mailto:leadershipperspectiveltd@gmail.com?subject=Interested in Training Program"
     }
@@ -49,7 +45,7 @@
       },
       {
         "title": "Why Choose LPL?",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!"
+        "description": "At Leadership Perspective Limited (LPL), we are committed to empowering professionals and organizations through world-class leadership training and strategic consulting. With a proven track record in executive development, oil & gas consultancy, and corporate governance, we provide tailored learning experiences that drive business growth, leadership excellence, and industry innovation. Our programs are designed by expert facilitators with global experience, ensuring participants gain practical skills, strategic insights, and a competitive edge in their careers. Whether you're an executive, manager, or aspiring leader, LPL offers the expertise, mentorship, and industry-focused solutions needed to thrive in today’s dynamic business environment."
       }
     ]
   },
